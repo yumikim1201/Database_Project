@@ -1,0 +1,35 @@
+#bo_w .tbl_frm01 {}
+#bo_w .tbl_frm01 th {}
+#bo_w .tbl_frm01 td {}
+#bo_w .tbl_frm01 textarea, #bo_w tbl_frm01 .frm_input {}
+#bo_w .tbl_frm01 textarea {}
+
+#bo_w .tbl_frm01 a {}
+
+  .tbl_wrap table {
+      width:100%;
+      border-collapse:collapse;
+      border-spacing:0;
+  }
+
+  .btn_b02 {
+      float: right;
+      display:inline-block;
+      padding:0 10px;
+      height:25px;
+      border:1px solid #999999;
+      background:#999999;
+      color:#ffffff;
+      text-decoration:none;
+      line-height:2.15em;
+      vertical-align:middle
+  }
+
+  .btn_bo_adm {
+      float: right;
+      padding:0 10px;height:25px;
+      border:1px solid #999999 !important;
+      background:#999999;
+      color:#ffffff;
+      text-decoration:none;vertical-align:middle;cursor:pointer
+  }
